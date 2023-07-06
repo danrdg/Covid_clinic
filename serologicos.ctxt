@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=serologicos
+comment1.params=
+comment1.target=serologicos()
+comment1.text=\r\n\ Constructor\ de\ objetos\ de\ la\ clase\ serologicos\r\n
+comment2.params=n\ t\ f\ r\ p\ e\ te
+comment2.target=serologicos(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ paciente,\ enfermero,\ tecnico)
+comment2.text=\r\n\ Constructor\ parametrizado\ de\ objetos\ de\ la\ clase\ antigenos\r\n
+comment3.params=pac
+comment3.target=boolean\ comprobarFechaPac(paciente)
+comment3.text=\r\n\ M\u00E9todo\ que\ comprueba\ si\ dada\ una\ fecha\ pruede\ asignarse\ una\ test\ serol\u00F3gico\ a\ un\ paciente\r\n\ El\ paciente\ deber\u00E1\ estar\ confinado\ un\ m\u00EDnimo\ de\ 10\ d\u00EDas\ antes\ del\ test\r\n\ Deber\u00E1n\ pasar\ m\u00EDnimo\ 6\ meses\ entre\ dos\ test\ serol\u00F3gicos\r\n\ @param\ pac\ -\ paciente\ al\ que\ queremos\ asignar\ la\ prueba\r\n\ @return\ devuelve\ true\ si\ la\ prueba\ es\ asignable\r\n
+comment4.params=t
+comment4.target=boolean\ comprobarRes(java.lang.String)
+comment4.text=\r\n\ Comprueba\ si\ un\ valor\ dado\ es\ un\ resultado\ v\u00E1lido\ de\ la\ prueba\r\n\ @return\ devuelve\ true\ si\ la\ cadena\ es\ un\ resultado\ v\u00E1lido\ de\ la\ prueba\r\n\ @param\ t\ -\ String\ que\ vamos\ a\ comprobar\r\n
+numComments=5

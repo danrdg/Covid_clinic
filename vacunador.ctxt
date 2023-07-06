@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=vacunador
+comment0.text=\r\n\ Implementa\ la\ opci\u00F3n\ de\ vacunar\ a\ los\ trabajadores\ sanitarios\r\n
+comment1.params=
+comment1.target=void\ gestionarVac()
+comment1.text=\r\n\ Gesti\u00F3n\ de\ vacunaciones\ del\ sanitario\r\n
+numComments=2

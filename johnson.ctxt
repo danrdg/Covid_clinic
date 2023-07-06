@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=johnson
+comment1.params=
+comment1.target=johnson()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ johnson\r\n
+comment2.params=n
+comment2.target=johnson(int)
+comment2.text=\r\n\ Constructor\ de\ objetos\ parametrizado\ de\ la\ clase\ johnson\r\n
+comment3.params=f1\ f2
+comment3.target=boolean\ checkAsignacion(java.time.LocalDate,\ java.time.LocalDate)
+comment3.text=\r\n\ M\u00E9todo\ que\ comprueba\ si\ es\ posible\ vacunar\ dadas\ las\ fechas\ de\ la\ primera\ y\ segunda\ dosis.\r\n
+comment4.params=
+comment4.target=vacuna\ checkInvent()
+comment4.text=\r\n\ comprueba\ si\ hay\ existencias\ de\ una\ vacuna\r\n\ @return\ devuelve\ la\ primera\ vacuna\ Johnson&Johnson\ disponible\ en\ el\ stock\r\n
+comment5.params=
+comment5.target=boolean\ unadosis()
+comment5.text=\r\n\ Comprueba\ si\ la\ vacunaci\u00F3n\ est\u00E1\ completada\ con\ una\ sola\ dosis\r\n
+numComments=6
